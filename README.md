@@ -1,0 +1,1 @@
+Repository for the "Data Structures" course at Aristotle University of Thessaloniki (AUTH) in 3rd semester (2020-21) . This repository contains code for an assignment that involves developing a game with a labyrinth of Minotaur and Theseu.
